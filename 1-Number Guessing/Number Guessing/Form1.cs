@@ -44,6 +44,7 @@ namespace Number_Guessing
                 btnTry.Enabled = true;
                 label1.Text = "";
                 txtEntry.Enabled = true;
+                txtEntry.Text = "";
             }
             else
             {
@@ -73,7 +74,6 @@ namespace Number_Guessing
                     btnStart.Enabled = true;
                     txtFirst.Enabled = true;
                     txtSecond.Enabled = true;
-                    txtEntry.Text = "";
                     txtEntry.Enabled = false;
                     btnTry.Enabled = false;
 

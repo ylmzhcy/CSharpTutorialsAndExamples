@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30cf3da4-92b7-41e4-a1ef-911b12f6009c": {
+      "ProjectGuid": "30cf3da4-92b7-41e4-a1ef-911b12f6009c",
+      "DisplayName": "DrawingApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

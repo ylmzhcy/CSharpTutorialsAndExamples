@@ -1,0 +1,11 @@
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\bin\Debug\Number Guessing.exe.config
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\bin\Debug\Number Guessing.exe
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\bin\Debug\Number Guessing.pdb
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\obj\Debug\Number Guessing.csproj.AssemblyReference.cache
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\obj\Debug\Number Guessing.csproj.SuggestedBindingRedirects.cache
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\obj\Debug\Number_Guessing.Form1.resources
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\obj\Debug\Number_Guessing.Properties.Resources.resources
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\obj\Debug\Number Guessing.csproj.GenerateResource.cache
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\obj\Debug\Number Guessing.csproj.CoreCompileInputs.cache
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\obj\Debug\Number Guessing.exe
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\1-Number Guessing\Number Guessing\obj\Debug\Number Guessing.pdb

@@ -1,0 +1,14 @@
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\bin\Debug\BtcStrategy.exe.config
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\bin\Debug\BtcStrategy.exe
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\bin\Debug\BtcStrategy.pdb
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\obj\Debug\BtcStrategy.csproj.AssemblyReference.cache
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\obj\Debug\BtcStrategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\obj\Debug\BtcStrategy.Form1.resources
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\obj\Debug\BtcStrategy.Properties.Resources.resources
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\obj\Debug\BtcStrategy.csproj.GenerateResource.cache
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\obj\Debug\BtcStrategy.csproj.CoreCompileInputs.cache
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\obj\Debug\BtcStrategy.exe
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\obj\Debug\BtcStrategy.pdb
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ByHCY\Documents\Visual Studio 2022\Sources\BtcStrategy\BtcStrategy\obj\Debug\BtcStrategy.csproj.CopyComplete

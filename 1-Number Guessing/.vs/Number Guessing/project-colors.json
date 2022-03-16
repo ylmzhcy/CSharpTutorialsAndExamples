@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "686d815b-52f1-46c2-a8b2-1a95a39f88cb": {
+      "ProjectGuid": "686d815b-52f1-46c2-a8b2-1a95a39f88cb",
+      "DisplayName": "Number Guessing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\obj\Debug\DrawingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\obj\Debug\DrawingApp.Form1.resources
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\ByHCY\Desktop\CSharpTutorialsAndExamples\2-Drawing App\DrawingApp\obj\Debug\DrawingApp.pdb
